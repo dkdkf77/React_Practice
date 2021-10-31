@@ -1,6 +1,8 @@
 import React, { Children } from 'react';
 import PropTypes from 'prop-types';
 
+// defaultProps로 초기 props 값을 설정 해줄 수 있고 ({name, favoriteNumber, children}) 으로 props 값을 사용 가능하게 해준다.
+
 const MyComponent = ({ name, favoriteNumber, children }) => {
   return (
     <div>
