@@ -52,3 +52,22 @@
 
     	- 리액트 컴포넌트를 사용할 때 컴포넌트 태그 사이의 내용을 보여 주는 props
 
+### Class 형 컴포넌트에서 defaultProps와 propTypes를 설정 할 때
+
+    		- static을 사용하여 랜더 윗쪽 부분에 설정 해 준다.
+
+<hr/>
+
+### state
+
+    		- prps는 컴포넌트가 사용되는 과정에서 부모 컴포넌트가 설정되는 값
+    		- 컴포넌트 자신은 해당 props를 읽기 전용으로만 사용할 수 있다.
+    		- props를 바꾸려면 부모 컴포넌트를 바꿔줘야 한다 지금 react에서는 App 컴포넌트에서 props를 바꿔줘야 변경된다.
+    		- !! state에는 2가지가 있는데 class형에서 사용하는 state 그리고 함수형에서 사용하는 useState가 있다.
+
+### setState ?
+
+    		- state 값을 바꿀 수 있게 해주는 함수
+    			- Counter.js 에 setState를 사용
+
+    			setState 관련 동영상
