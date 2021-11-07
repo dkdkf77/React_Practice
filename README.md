@@ -69,7 +69,11 @@
 
     	- state 값을 바꿀 수 있게 해주는 함수
     	- Counter.js 에 setState를 사용
-![Hnet com-image (5)](https://user-images.githubusercontent.com/88579497/140636400-ef0c4a12-994a-4af6-a3d5-e2b7742493f8.gif)
+
+
+
+https://user-images.githubusercontent.com/88579497/140636499-191c8688-1fee-4951-8148-30bfd4c1c5dc.mov
+
 
     	
 
