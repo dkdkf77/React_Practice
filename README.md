@@ -69,17 +69,26 @@
 
     	- state 값을 바꿀 수 있게 해주는 함수
     	- Counter.js 에 setState를 사용
+![Hnet com-image (5)](https://user-images.githubusercontent.com/88579497/140636400-ef0c4a12-994a-4af6-a3d5-e2b7742493f8.gif)
 
-    	setState 관련 동영상
+    	
 
 ### 화살표 함수에서 값을 바로 반환하고 싶다면 코드 블록 {}를 생략 하면 된다.
 
     	- 화살표 함수에 객체를 바로 반환 하는 방법과 바로 반환하지 않는 방법
     	- 위와 아래는 똑같은 기능을 한다
+<img width="896" alt="스크린샷 2021-11-07 오후 4 09 02" src="https://user-images.githubusercontent.com/88579497/140636415-11bf944c-3c5b-42e9-927e-b447b1d3968b.png">
 
-    	스크린샷
+    
 
 ### this.setState가 끝난 후 특정 작업 실행하기
 
     	- 특정 작업을 하고 싶을 때는 setState으 두 번째 파라미터로 콜백 함수를 등록하여 작업을 처리할 수 있다.
-    	스크린샷
+  <img width="892" alt="스크린샷 2021-11-07 오후 4 19 03" src="https://user-images.githubusercontent.com/88579497/140636424-cbfc8891-d453-4578-adaa-b6210510999d.png">
+
+![Hnet com-image (7)](https://user-images.githubusercontent.com/88579497/140636438-f795306f-77d0-474c-a9b9-3dc6e50aa25f.gif)
+
+
+
+
+
